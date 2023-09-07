@@ -14,7 +14,7 @@ const tourRouter = require('./routes/tourRoutes');
 const userRouter = require('./routes/userRoutes');
 const reviewRouter = require('./routes/reviewRoutes');
 
-//Start express app
+//Start the express app
 const app = express();
 
 // 1) GLOBAL MIDDLEWARES
